@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <g class="glyph">
+    <path d="M 65 8 H 98 V 396 L 132 393 V 94 H 164 V 178 Q 190 145 211 98 Q 232 51 244 0 L 288 9 Q 282 30 275 51 Q 269 71 261 91 H 480 V 129 H 320 V 207 H 468 V 245 H 320 V 331 H 473 V 369 H 320 V 512 H 279 V 129 H 244 Q 233 152 222 172 Q 210 193 197 209 Q 177 204 182 197 Q 172 189 164 184 V 450 H 132 V 427 L 0 440 V 95 H 31 V 403 L 65 400 Z" fill="black" />
+  </g>
+  <g class="defect" id="01">
+    <path d="M 197 209 Q 177 204 182 197" fill="none" stroke="red" stroke-width="3" />
+  </g>
+</svg>

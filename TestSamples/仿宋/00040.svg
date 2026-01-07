@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <g class="glyph">
+    <path d="M 15 293 11 284 Q 136 222 181 118 Q 76 148 80 133 L 52 110 Q 77 112 189 99 Q 190 54 203 37 Q 204 19 196 4 L 202 0 L 237 32 Q 230 30 226 47 Q 222 65 211 97 L 295 86 L 305 67 L 336 90 L 314 103 Q 305 144 303 183 Q 301 213 331 215 H 379 Q 409 215 413 202 Q 417 189 417 127 H 428 Q 428 159 430 184 Q 446 227 445 219 Q 437 234 381 234 H 333 Q 288 237 284 204 Q 284 157 295 105 L 204 116 Q 157 234 15 293 Z M 234 312 Q 413 301 419 290 L 452 316 Q 419 316 234 331 V 482 Q 234 512 228 506 L 202 463 Q 217 458 215 432 V 333 Q 37 346 26 351 L 0 327 Q 45 329 215 314 V 265 Q 215 230 204 217 L 209 213 L 245 237 Q 232 239 234 271 Z" fill="black" />
+  </g>
+  <g class="defect" id="01">
+    <path d="M 189 99 Q 190 54 203 37" fill="none" stroke="red" stroke-width="3" />
+  </g>
+  <g class="defect" id="02">
+    <path d="M 430 184 Q 446 227 445 219" fill="none" stroke="red" stroke-width="3" />
+  </g>
+  <g class="defect" id="03">
+    <path d="M 181 118 Q 76 148 80 133" fill="none" stroke="red" stroke-width="3" />
+  </g>
+</svg>

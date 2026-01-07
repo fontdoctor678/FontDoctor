@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <g class="glyph">
+    <path d="M 243 500 H 194 V 464 H 236 Q 249 464 256 460 Q 263 456 269 445 L 288 404 H 329 L 302 463 Q 293 485 281 492 Q 269 500 243 500 Z M 512 500 H 467 Q 443 500 429 492 Q 403 484 407 463 L 380 404 H 422 L 441 445 Q 446 456 454 460 Q 442 444 475 464 H 512 Z M 416 346 H 507 V 381 H 199 V 347 H 247 V 144 H 410 Q 423 144 427 141 Q 431 137 431 127 V 119 H 471 V 139 Q 471 160 461 169 Q 451 179 427 179 H 288 V 235 H 482 V 269 H 416 Z M 379 46 H 505 V 115 H 463 V 81 H 255 V 128 H 214 V 46 H 334 L 321 0 H 367 Z M 377 346 V 269 H 288 V 347 Z M 141 327 H 70 V 440 Q 70 500 24 500 H 0 V 462 H 10 Q 22 462 27 456 Q 42 450 32 432 V 15 H 177 V 438 Q 177 500 123 500 H 90 V 462 H 112 Q 141 462 141 428 Z M 141 289 V 188 H 70 V 289 Z M 141 150 V 52 H 70 V 150 Z" fill="black" />
+  </g>
+  <g class="defect" id="01">
+    <path d="M 454 460 Q 442 444 475 464" fill="none" stroke="red" stroke-width="3" />
+  </g>
+  <g class="defect" id="02">
+    <path d="M 27 456 Q 42 450 32 432" fill="none" stroke="red" stroke-width="3" />
+  </g>
+  <g class="defect" id="03">
+    <path d="M 429 492 Q 403 484 407 463" fill="none" stroke="red" stroke-width="3" />
+  </g>
+</svg>
